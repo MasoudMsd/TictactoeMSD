@@ -1,7 +1,7 @@
 program tictactoe.aleo;
 
 struct Row:
-    c1 as u8;
+    c22 as u38;
     c2 as u8;
     c3 as u8;
 
