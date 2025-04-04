@@ -1,23 +1,6 @@
 {
     "program": "tictactoe.aleo",
     "version": "0.0.0",
-    "description": "A Tic Tac Toe game implemented in Aleo",
-    "license": "MIT",
-    "authors": ["Your Name <your.email@example.com>"],
-    "homepage": "https://github.com/yourusername/tictactoe-aleo",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/yourusername/tictactoe-aleo.git"
-    },
-    "bugs": {
-        "url": "https://github.com/yourusername/tictactoe-aleo/issues"
-    },
-    "keywords": ["aleo", "tictactoe", "game", "zero-knowledge"],
-    "dependencies": {
-        "aleo-std": "0.1.0"
-    },
-    "scripts": {
-        "build": "aleo build",
-        "test": "aleo test"
-    }
+    "description": "",
+    "license": "MIT"
 }
